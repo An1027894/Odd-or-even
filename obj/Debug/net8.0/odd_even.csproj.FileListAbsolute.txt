@@ -1,0 +1,14 @@
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\bin\Debug\net8.0\odd_even.exe
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\bin\Debug\net8.0\odd_even.deps.json
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\bin\Debug\net8.0\odd_even.runtimeconfig.json
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\bin\Debug\net8.0\odd_even.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\bin\Debug\net8.0\odd_even.pdb
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.AssemblyInfoInputs.cache
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.AssemblyInfo.cs
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.csproj.CoreCompileInputs.cache
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\refint\odd_even.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.pdb
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\odd_even.genruntimeconfig.cache
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\2025-spring\programming-25FA-CIS-120-101, CIS-120-CC101\odd_even\obj\Debug\net8.0\ref\odd_even.dll
